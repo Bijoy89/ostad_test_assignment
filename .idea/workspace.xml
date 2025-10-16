@@ -4,7 +4,137 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c0f3f40-39ba-4d8d-b5ba-2febb9919deb" name="Changes" comment="Done">
+    <list default="true" id="6c0f3f40-39ba-4d8d-b5ba-2febb9919deb" name="Changes" comment="calculator_app done">
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/analysis_options.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/android/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/android/app/src/main/kotlin/com/example/flutter_api_testassignment/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/android/app/src/main/res/drawable-v21/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/android/app/src/main/res/values-night/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/android/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/android/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/ios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/ios/RunnerTests/RunnerTests.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/lib/Photos_API.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/linux/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/linux/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/linux/flutter/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/linux/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/linux/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/linux/flutter/generated_plugins.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/linux/runner/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/linux/runner/main.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/linux/runner/my_application.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/linux/runner/my_application.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/macos/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/macos/Flutter/Flutter-Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/macos/Flutter/Flutter-Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/macos/Flutter/GeneratedPluginRegistrant.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/macos/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/macos/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/macos/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/macos/Runner/Base.lproj/MainMenu.xib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/macos/Runner/Configs/AppInfo.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/macos/Runner/Configs/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/macos/Runner/Configs/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/macos/Runner/Configs/Warnings.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/macos/Runner/DebugProfile.entitlements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/macos/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/macos/Runner/MainFlutterWindow.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/macos/Runner/Release.entitlements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/macos/RunnerTests/RunnerTests.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/test/widget_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/web/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/web/icons/Icon-192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/web/icons/Icon-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/web/icons/Icon-maskable-192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/web/icons/Icon-maskable-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/web/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/windows/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/windows/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/windows/flutter/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/windows/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/windows/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/windows/flutter/generated_plugins.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/windows/runner/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/windows/runner/Runner.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/windows/runner/flutter_window.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/windows/runner/flutter_window.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/windows/runner/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/windows/runner/resource.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/windows/runner/resources/app_icon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/windows/runner/runner.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/windows/runner/utils.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/windows/runner/utils.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/windows/runner/win32_window.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_API_testassignment/windows/runner/win32_window.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +171,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Flutter.main.dart (1).executor": "Run",
+    "Flutter.main.dart (2).executor": "Run",
     "Flutter.main.dart.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -53,7 +184,7 @@
     "git-widget-placeholder": "master",
     "io.flutter.reload.alreadyRun": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "F:/android ostad flutter projects/ostad_test_assignment/flutter_calculator/lib",
+    "last_opened_file_path": "F:/android ostad flutter projects/ostad_test_assignment",
     "settings.editor.selected.configurable": "flutter.settings",
     "show.migrate.to.gradle.popup": "false"
   }
@@ -63,9 +194,13 @@
       <recent name="F:\android ostad flutter projects\ostad_test_assignment\flutter_calculator\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="Flutter.main.dart (1)">
+  <component name="RunManager" selected="Flutter.main.dart (2)">
     <configuration name="main.dart (1)" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/flutter_calculator/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main.dart (2)" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/flutter_API_testassignment/lib/main.dart" />
       <method v="2" />
     </configuration>
     <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
@@ -74,6 +209,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Flutter.main.dart (2)" />
         <item itemvalue="Flutter.main.dart (1)" />
         <item itemvalue="Flutter.main.dart" />
       </list>
@@ -103,11 +239,20 @@
       <option name="project" value="LOCAL" />
       <updated>1757612526301</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="calculator_app done">
+      <option name="closed" value="true" />
+      <created>1760552659699</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1760552659699</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done" />
+    <MESSAGE value="calculator_app done" />
+    <option name="LAST_COMMIT_MESSAGE" value="calculator_app done" />
   </component>
 </project>
